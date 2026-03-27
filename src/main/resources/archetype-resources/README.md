@@ -1,0 +1,3 @@
+# ${artifactCamelCase}
+
+Welcome to **${artifactCamelCase}.**
